@@ -2,7 +2,7 @@
 *.log
 *.nav
 *.out
-*.pdf
+main.pdf
 *.snm
 *.gz
 *.toc
