@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{686.6910535bp}%
+    \setlength{\unitlength}{658.3445968bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,17 +50,17 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,0.42377136)%
+  \begin{picture}(1,0.44201772)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
-    \put(0.30189033,0.32578591){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.3697858\unitlength}\centering Abstraction\\ +\\ T\^ache\end{minipage}}}%
+    \put(0.28652496,0.28740912){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.38570773\unitlength}\centering Abstraction\\ +\\ T\^ache\end{minipage}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{perspective.pdf}}%
-    \put(0.69326338,0.07916726){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$S_0$\end{tabular}}}}%
-    \put(0.69326338,0.20149137){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$S_1$\end{tabular}}}}%
-    \put(0.69326338,0.33036855){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$S_2$\end{tabular}}}}%
+    \put(0.70152674,0.34176644){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$S_2$\end{tabular}}}}%
+    \put(0.70152674,0.34176644){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$S_2$\end{tabular}}}}%
+    \put(0.70152674,0.20961858){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$S_1$\end{tabular}}}}%
+    \put(0.70152674,0.08430595){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$S_0$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=2]{perspective.pdf}}%
-    \put(0.04119571,0.18462723){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\boldsymbol{x} = f(\boldsymbol{x}, \boldsymbol{u})$\end{tabular}}}}}%
-    \put(0.51897233,0.26953907){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.8426585\unitlength}\centering Synth\`ese\\ $\boldsymbol{u}(\boldsymbol{x},t)$\end{minipage}}}%
-    \put(0,0){\includegraphics[width=\unitlength,page=3]{perspective.pdf}}%
+    \put(0.03960171,0.23593328){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\boldsymbol{x} = f(\boldsymbol{x}, \boldsymbol{u})$\end{tabular}}}}}%
+    \put(0.54713055,0.28114462){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.87894099\unitlength}\centering Synth\`ese\\ $\boldsymbol{u}(\boldsymbol{x},t)$\end{minipage}}}%
   \end{picture}%
 \endgroup%
