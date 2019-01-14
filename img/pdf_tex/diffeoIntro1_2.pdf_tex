@@ -50,14 +50,16 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,0.46136198)%
+  \begin{picture}(1,0.51332083)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{diffeoIntro1_2.pdf}}%
-    \put(0.39245104,0.41995883){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\Y$\end{tabular}}}}%
-    \put(0.60848296,0.41995883){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\X$\end{tabular}}}}%
+    \put(0.39245101,0.47191769){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\Y$\end{tabular}}}}%
+    \put(0.60848292,0.47191769){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\X$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=2]{diffeoIntro1_2.pdf}}%
-    \put(0.49653193,0.35278654){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}{\relscale{1.4} $\Phi$}\end{tabular}}}}%
+    \put(0.4965319,0.4047454){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}{\relscale{1.4} $\Phi$}\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=3]{diffeoIntro1_2.pdf}}%
+    \put(0.23704856,0.00089439){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}{\relscale{1.6} $\dot{\boldsymbol{y}} = f(\boldsymbol{y})$}\end{tabular}}}}%
+    \put(0.77516277,0.00089439){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}{\relscale{1.6} $\dot{\boldsymbol{x}} = g(\boldsymbol{x})$}\end{tabular}}}}%
   \end{picture}%
 \endgroup%

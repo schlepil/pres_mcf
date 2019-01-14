@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="247.24934mm"
+   width="232.24934mm"
    height="102.65833mm"
-   viewBox="0 0 247.24934 102.6583"
+   viewBox="0 0 232.24934 102.6583"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (unknown)"
@@ -38,18 +38,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="189.85371"
-     inkscape:cy="245.57812"
+     inkscape:zoom="0.7"
+     inkscape:cx="213.55949"
+     inkscape:cy="148.96242"
      inkscape:document-units="mm"
-     inkscape:current-layer="g935"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1853"
      inkscape:window-height="1025"
      inkscape:window-x="67"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     fit-margin-right="50"
+     fit-margin-right="35"
      fit-margin-top="0"
      fit-margin-left="10"
      fit-margin-bottom="0">
@@ -57,7 +57,7 @@
        type="xygrid"
        id="grid865"
        originx="14.762499"
-       originy="-61.383334" />
+       originy="-61.383319" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -112,16 +112,6 @@
          id="path12"
          inkscape:connector-curvature="0"
          style="fill:none;stroke:#0000ff;stroke-width:0.5291667;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill stroke markers" />
-      <text
-         font-size="25px"
-         font-style="normal"
-         font-weight="normal"
-         text-decoration="normal"
-         x="147.49147"
-         y="215.91414"
-         dominant-baseline="alphabetic"
-         id="text14"
-         style="font-style:normal;font-weight:normal;font-size:7.93749952px;line-height:0%;font-family:tahoma;dominant-baseline:alphabetic;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.3175">S₀</text>
       <path
          d="m 139.00341,215.2934 c -15.15876,3.49968 -5.81415,17.88912 3.54859,5.46434 m 0,0 -3.09362,0.71423 m 3.09362,-0.71423 -0.63546,3.11076"
          stroke-miterlimit="10"
@@ -140,16 +130,6 @@
          id="path24"
          inkscape:connector-curvature="0"
          style="fill:#ffffff;stroke:#0000ff;stroke-width:0.5291667;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill stroke markers" />
-      <text
-         font-size="25px"
-         font-style="normal"
-         font-weight="normal"
-         text-decoration="normal"
-         x="146.93591"
-         y="185.8311"
-         dominant-baseline="alphabetic"
-         id="text26"
-         style="font-style:normal;font-weight:normal;font-size:7.93749952px;line-height:0%;font-family:tahoma;dominant-baseline:alphabetic;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.3175">S₁</text>
       <path
          d="m 140.40951,189.17784 q -10.85364,9.27924 0.38091,18.09348 m 0,0 -3.14319,-0.44827 m 3.14319,0.44827 -1.18339,-2.94622"
          stroke-miterlimit="10"
@@ -168,16 +148,6 @@
          id="path36"
          inkscape:connector-curvature="0"
          style="fill:#ffffff;stroke:#0000ff;stroke-width:0.5291667;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill stroke markers" />
-      <text
-         font-size="25px"
-         font-style="normal"
-         font-weight="normal"
-         text-decoration="normal"
-         x="147.60387"
-         y="155.38403"
-         dominant-baseline="alphabetic"
-         id="text38"
-         style="font-style:normal;font-weight:normal;font-size:7.93749952px;line-height:0%;font-family:tahoma;dominant-baseline:alphabetic;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.3175">S₂</text>
       <path
          d="m 140.82202,158.42771 q -11.26624,8.93697 -0.382,18.3354 m 0,0 -3.11865,-0.59549 m 3.11865,0.59549 -1.0436,-2.99858"
          stroke-miterlimit="10"
@@ -190,6 +160,50 @@
          id="path44"
          inkscape:connector-curvature="0"
          style="fill:none;stroke:#0000ff;stroke-width:0.5291667;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill stroke markers" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="148.16663"
+         y="156.24162"
+         id="text26205"><tspan
+           sodipodi:role="line"
+           id="tspan26203"
+           x="148.16663"
+           y="156.24162"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">$S_2$</tspan></text>
+      <text
+         id="text26209"
+         y="156.24162"
+         x="148.16663"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+           y="156.24162"
+           x="148.16663"
+           id="tspan26207"
+           sodipodi:role="line">$S_2$</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="148.16663"
+         y="186.93288"
+         id="text26213"><tspan
+           sodipodi:role="line"
+           id="tspan26211"
+           x="148.16663"
+           y="186.93288"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">$S_1$</tspan></text>
+      <text
+         id="text26217"
+         y="216.03665"
+         x="148.16663"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+           y="216.03665"
+           x="148.16663"
+           id="tspan26215"
+           sodipodi:role="line">$S_0$</tspan></text>
     </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:1.76388884;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -235,23 +249,22 @@
        id="text903"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
-         id="tspan901"
+         id="tspan26201"
          x="-180.8213"
-         y="-5.5650287"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">$\boldsymbol{x} = f(\boldsymbol{x}, \boldsymbol{u})</tspan></text>
+         y="-5.5650287">$\boldsymbol{x} = f(\boldsymbol{x}, \boldsymbol{u})$</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot905"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-66.550112,5.6126601)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,-78.191786,5.6126601)"><flowRegion
          id="flowRegion907"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"><rect
            id="rect909"
-           width="720"
-           height="129.99998"
+           width="771.52802"
+           height="118.78674"
            x="720"
            y="622.51971"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle" /></flowRegion><flowPara
-         id="flowPara911">Synth\`ese</flowPara><flowPara
-         id="flowPara913">\boldsymbol{u}(\boldsymbol{x},t)</flowPara></flowRoot>  </g>
+         id="flowPara26197">Synth\`ese</flowPara><flowPara
+         id="flowPara26199">$\boldsymbol{u}(\boldsymbol{x},t)$</flowPara></flowRoot>  </g>
 </svg>

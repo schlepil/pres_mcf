@@ -10,8 +10,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="134.722mm"
-   height="62.155609mm"
-   viewBox="0 0 477.36141 220.23641"
+   height="69.155609mm"
+   viewBox="0 0 477.36141 245.03957"
    id="svg18191"
    version="1.1"
    inkscape:version="0.92.3 (unknown)"
@@ -24,15 +24,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.7691406"
-     inkscape:cx="218.39731"
-     inkscape:cy="160.7405"
+     inkscape:cx="326.38427"
+     inkscape:cy="111.29639"
      inkscape:document-units="px"
      inkscape:current-layer="g68118"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0"
+     fit-margin-bottom="7"
      inkscape:window-width="1853"
      inkscape:window-height="1025"
      inkscape:window-x="67"
@@ -719,7 +719,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -17173,7 +17173,7 @@
          id="g26333"
          transform="matrix(1.25,0,0,-1.25,265.93882,969.50464)">
         <path
-           d="m 317.7,261.1 v 0 0 0 0 0 0 0 0 0 0 0 z"
+           d="m 317.7,261.1 v 0 0 0 0 0 z"
            style="fill:none;stroke:#0000ff;stroke-width:0.55900002;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            id="path26335"
            inkscape:connector-curvature="0" />
@@ -33507,10 +33507,10 @@
       <g
          id="g33593"
          transform="matrix(1.25,0,0,-1.25,265.93882,969.50464)"
-         style="stroke-width:2.99999996;stroke-miterlimit:4;stroke-dasharray:none;stroke:#ff0000;stroke-opacity:1">
+         style="stroke:#ff0000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
         <path
            d="m 456.9,400.3 c 0,0 -66.5,-23.9 -68.5,-42.8 -2.1,-18.9 50.3,-0.5 52.4,-17.6 2.1,-17.1 -31.9,-22.8 -52.4,-36 -20.6,-13.2 -70.9,-42.6 -70.9,-42.6"
-           style="fill:none;stroke:#ff0000;stroke-width:2.99999996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;stroke:#ff0000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="path33595"
            inkscape:connector-curvature="0" />
       </g>
@@ -33951,10 +33951,26 @@
            x="632.36462"
            y="485.32233">{\relscale{1.4} $\Phi$}</tspan></text>
       <path
-         style="fill:none;stroke:#ff0000;stroke-width:3.74999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:none;stroke:#ff0000;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 580.31382,468.62964 -175,173.75"
          id="path25482"
          inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.75000058px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375;"
+         x="508.49728"
+         y="678.10522"
+         id="text26240"><tspan
+           sodipodi:role="line"
+           id="tspan26284">{\relscale{1.6} $\dot{\boldsymbol{y}} = f(\boldsymbol{y})$}</tspan></text>
+      <text
+         id="text26244"
+         y="678.10522"
+         x="765.37225"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.75000058px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375;"
+         xml:space="preserve"><tspan
+           sodipodi:role="line"
+           id="tspan26282">{\relscale{1.6} $\dot{\boldsymbol{x}} = g(\boldsymbol{x})$}</tspan></text>
     </g>
   </g>
 </svg>
